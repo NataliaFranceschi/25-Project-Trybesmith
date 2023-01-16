@@ -1,13 +1,12 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Boas-vindas ao repositório do projeto Trybesmith!
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Projeto desenvolvido no curso da Trybe ao final do bloco 25* do Módulo 3 - Desenvolvimento Back-end.<br>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+ <strong>*Bloco 25: Introdução TypeScript</strong><br>
+ 22.1 - Introdução TypeScript<br>
+ 22.2 - Tipagem Estática e Generics<br>
+ 22.3 - Express com TypeScript<br>
+ 22.4 - Projeto TrybeSmith<br>
+ 
+No projeto Trybesmith desenvolvi uma API Rest com o framework Express utilizando a linguagem TypeScript.
+Foi utilizada a arquitetura em camadas MSC e a biblioteca de mapeamento objeto-relacional (ORM). E para maior segurança na API foi aplicado o método de autenticação JWT(JSON Web Token) em determinadas requisições.
